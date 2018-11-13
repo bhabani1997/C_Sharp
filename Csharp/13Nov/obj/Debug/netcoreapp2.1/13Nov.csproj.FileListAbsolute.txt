@@ -1,0 +1,11 @@
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\bin\Debug\netcoreapp2.1\13Nov.deps.json
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\bin\Debug\netcoreapp2.1\13Nov.runtimeconfig.json
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\bin\Debug\netcoreapp2.1\13Nov.runtimeconfig.dev.json
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\bin\Debug\netcoreapp2.1\13Nov.dll
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\bin\Debug\netcoreapp2.1\13Nov.pdb
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\obj\Debug\netcoreapp2.1\13Nov.csprojAssemblyReference.cache
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\obj\Debug\netcoreapp2.1\13Nov.csproj.CoreCompileInputs.cache
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\obj\Debug\netcoreapp2.1\13Nov.AssemblyInfoInputs.cache
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\obj\Debug\netcoreapp2.1\13Nov.AssemblyInfo.cs
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\obj\Debug\netcoreapp2.1\13Nov.dll
+C:\Users\sankar.panda\Documents\CSharp\Practice\Csharp\13Nov\obj\Debug\netcoreapp2.1\13Nov.pdb
