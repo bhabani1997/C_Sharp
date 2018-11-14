@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sankar.panda\\Documents\\CSharp\\Practice\\Csharp\\13Nov\\13Nov.csproj",
+      "projectUniqueName": "C:\\Users\\sankar.panda\\Documents\\GitHub\\C_Sharp\\Assignment\\13Nov\\13Nov.csproj",
       "projectName": "13Nov",
-      "projectPath": "C:\\Users\\sankar.panda\\Documents\\CSharp\\Practice\\Csharp\\13Nov\\13Nov.csproj",
+      "projectPath": "C:\\Users\\sankar.panda\\Documents\\GitHub\\C_Sharp\\Assignment\\13Nov\\13Nov.csproj",
       "packagesPath": "C:\\Users\\sankar.panda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sankar.panda\\Documents\\CSharp\\Practice\\Csharp\\13Nov\\obj\\",
+      "outputPath": "C:\\Users\\sankar.panda\\Documents\\GitHub\\C_Sharp\\Assignment\\13Nov\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
